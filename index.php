@@ -3,13 +3,13 @@
     require_once "mobile_device_detect.php";
     $isMobile = mobile_device_detect();
 ?>
-<!-- obs 20231207 view profissional -->
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elvyngthon | Developer Full Stack | Blumenau(SC)</title>
+    <title>Jorge Henrique Talento | Developer Full Stack | Blumenau(SC)</title>
     <link rel="stylesheet" href="<?php echo URL_SITE ?>css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo URL_SITE ?>icofont/icofont.min.css">
     <link rel="stylesheet" href="<?php echo URL_SITE ?>css/app.css">
@@ -36,9 +36,15 @@
         </div>
     </footer>
        
-    <script src="<?php echo URL_SITE ?>js/bootstrap.bundle.min.js"></script> <!-- usa a variavel php para informar o caminho absoluto -->
-<!-- CAMINHO ABSOLUTO    
-    <script src="http://localhost/ProjetoTurma/traininpage/js/bootstrap.bundle.min.js"></script>     -->
-<!-- <script src="js/bootstrap.bundle.min.js"></script> -->
+    <script> const URL = "<?php echo URL_SITE ?>" </script>
+
+    <script src="<?php echo URL_SITE ?>js/jquery-3.7.1.min.js"></script>
+
+    <script src="<?php echo URL_SITE ?>js/app.js"></script>
+
+    <script src="<?php echo URL_SITE ?>js/bootstrap.bundle.min.js"></script> //<!-- usa a variavel php para informar o caminho absoluto -->
+    // CAMINHO ABSOLUTO    
+    // <script src="http://localhost/ProjetoTurma/traininpage/js/bootstrap.bundle.min.js"></script>
+    <!-- // <script src="js/bootstrap.bundle.min.js"></script> -->
 </body>
 </html>

@@ -10,12 +10,7 @@
             Rerum optio iure dolorum aspernatur! Assumenda quo atque magnam eveniet eligendi sunt accusantium, praesentium ipsa itaque, qui maiores accusamus vitae numquam saepe, error ducimus quasi neque amet deserunt deleniti cum?
             Recusandae porro, illo ipsa temporibus, sed autem quam non quod est in maxime iste modi delectus officiis velit magni, explicabo nostrum officia minima id! Eaque exercitationem voluptate odit. Facere, saepe!
             Assumenda exercitationem in quam quis fuga aut provident est amet error vel? Voluptatem laudantium nostrum non. A aliquam expedita hic culpa sapiente. Voluptatibus, provident nulla corporis sequi magni vel totam!
-            Aut neque autem enim quibusdam nesciunt molestias aspernatur iusto quia alias sint itaque voluptatem ipsa libero eum rem necessitatibus provident excepturi repudiandae, veritatis vel totam. Iure obcaecati quisquam molestias adipisci.
-            Consectetur soluta, tempora quam pariatur enim nisi sed id quod ullam non, reprehenderit inventore ea eaque cumque? Cumque asperiores vitae nulla hic veniam ducimus dolorem, dolorum sit error quidem minima.
-            Dignissimos asperiores quos cumque nulla molestiae provident! Ad temporibus ullam eos libero quidem dicta alias tempora, consequuntur vero sunt ut minus cupiditate neque officia veniam dolorum ipsam atque expedita itaque!
-            Repudiandae architecto quos adipisci magni. Velit, corrupti doloribus in accusantium accusamus beatae corporis quia nemo dolorem porro inventore, eveniet reprehenderit eum numquam dignissimos, enim ad sint suscipit. Unde, autem explicabo.
-            Commodi et voluptatum, quis ipsa deserunt quam modi libero architecto autem aliquam, dolores assumenda at quia consequatur vel veritatis in praesentium est, non aperiam maxime harum itaque. Itaque, harum voluptate!
-            Recusandae, quae quaerat! Veniam a eius cupiditate distinctio modi dolorum ipsa explicabo. Suscipit ipsam quibusdam atque veniam vero animi voluptatum fugiat quidem quia itaque velit, dolorum vel id excepturi nam!
+            Aut neque autem enim quibusdam nesciunt molestias aspernatur iusto quia alias sint itaque voluptatem ipsa libero eum rem necessitatibus provident excepturi repudiandae, veritatis vel totam.
         </p>
     </div>
 </div>

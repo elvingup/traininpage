@@ -1,5 +1,6 @@
 .navbar{
     background-color: #808080;
+    font-size: 1.44rem;
 }
 
 .navbar .nav-link{
@@ -12,5 +13,5 @@
 }
 
 #logo{
-    max-width: 6.25rem;
+    max-width: 5rem;
 }
