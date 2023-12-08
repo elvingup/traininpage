@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #808080;
+}
+
+.navbar .nav-link{
+    color: whitesmoke;
+    font-weight: 777;
+}
+
+.navbar .nav-link.active{
+    color:gold;
+}
+
+#logo{
+    max-width: 6.25rem;
+}
