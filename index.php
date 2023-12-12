@@ -1,6 +1,7 @@
 <?php 
     const URL_SITE = "http://localhost/ProjetoTurma/traininpage/";
     require_once "mobile_device_detect.php";
+    require_once "conectadb.php";
     $isMobile = mobile_device_detect();
 ?>
 

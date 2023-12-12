@@ -1,19 +1,16 @@
 <!-- banner da pagina inicial  -->
 <?php
-$dados = [
-    [
-        "title" => "Trabalho Full Stack PHP",
-        "description" => "Trabalhos completos de front-end com back-end",
-        "img" => "b1.png",
-        "mobile" => "b1m.png"
-    ],
-    [
-        "title" => "Trabalho Full Stack PHP",
-        "description" => "Trabalhos completos de front-end com back-end",
-        "img" => "b2.png",
-        "mobile" => "b2m.png"
-    ],
-];
+$sql = "SELECT * FROM banners ORDER BY id DESC";
+$qry = mysqli_query($con, $sql) or die("Erro ao tentar fazer a consulta.");
+
+$dados = [];
+$i = 0;
+
+while($data = mysqli_fetch_assoc($qry)){
+    $dados[$i] = $data;
+    $i++;
+}
+
 ?>
 
 <div id="carouselExampleCaptions" class="carousel slide">
