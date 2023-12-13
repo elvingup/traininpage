@@ -15,8 +15,8 @@ main{
     background-color: #f8fafaf2;
 }
 
-.carousel-inner{
-    max-height: 400px;
+.carrossel{
+    font-size: 2rem;
 }
 
 h2{

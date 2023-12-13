@@ -24,13 +24,13 @@ while($data = mysqli_fetch_assoc($qry)){
     <div class="carousel-item <?php echo $active ?>">
       <img src="<?php echo URL_SITE."img/".$img ?>" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5 class="bg-success">
+        <h5 class="bg-success carrossel">
             <strong>
             <?php echo $b['title'] ?>
             </strong>   
         </h5>
-        <p class="bg-success"><?php echo $b['description'] ?></p>
-        <a href="####" class="btn btn-success"><strong>ASSINE JÁ!</strong></a>
+        <p class="bg-success carrossel"><?php echo $b['description'] ?></p>
+        <a href="####" class="btn btn-success carrossel"><strong>ASSINE JÁ!</strong></a>
       </div>
     </div>
 
