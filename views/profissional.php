@@ -3,7 +3,7 @@
         <img src="<?php echo URL_SITE?>img/pro.png" alt="Imagem do Desenvolvedor" class="img-fluid">
     </div>
     <div class="col-sm-12 col-md-8">
-        <h2>Jorge Henrique Talento</h2>
+        <h2>Codificex Major</h2>
         <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat ipsam fugit obcaecati natus veritatis, voluptatem officia nam sit eum in maiores, delectus culpa corrupti cum, quos nesciunt ducimus molestiae placeat.
             Saepe earum rem temporibus quaerat dicta deserunt error laboriosam labore sint numquam eveniet beatae vel, consequuntur ad dolore, sed fuga voluptatibus. Ut perferendis illum libero quas cumque amet odit soluta.
